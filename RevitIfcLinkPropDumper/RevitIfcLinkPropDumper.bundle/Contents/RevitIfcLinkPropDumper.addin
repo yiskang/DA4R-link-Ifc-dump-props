@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="DBApplication">
+		<Name>RevitIfcLinkPropDumper</Name>
+		<FullClassName>RevitIfcLinkPropDumper.Command</FullClassName>
+		<Text>RevitIfcLinkPropDumper</Text>
+		<Description>Link IFC to Revit RVT and Dump props from linked IFC</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>.\RevitIfcLinkPropDumper.dll</Assembly>
+		<AddInId>8AEA9DD3-CBF1-4F04-AF21-5E5797D6A51F</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

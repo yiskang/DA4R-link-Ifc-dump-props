@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitIfcLinkPropDumper", "RevitIfcLinkPropDumper\RevitIfcLinkPropDumper.csproj", "{B790C6AE-3F8E-4966-869A-1618A842E47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B790C6AE-3F8E-4966-869A-1618A842E47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B790C6AE-3F8E-4966-869A-1618A842E47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B790C6AE-3F8E-4966-869A-1618A842E47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B790C6AE-3F8E-4966-869A-1618A842E47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2C328A-0FB0-4DB9-84B5-4E6E633D5E3F}
+	EndGlobalSection
+EndGlobal
