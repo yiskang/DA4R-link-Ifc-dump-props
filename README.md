@@ -13,8 +13,13 @@
 
 This sample demonstrates the below on Design Automation:
 
-- How to open IFC files using `Link IFC`  with the `Importer` of `Revit.IFC.Import.dll` from Revit software.
+- How to open IFC files using `Link IFC`  with the `Importer` of `Revit.IFC.Import.dll` from Revit 2022 software in this sample.
 - How to dump IFC object properties by opening the `*.ifc.RVT` file and write properties result into an Excel file using [NPOI](https://www.nuget.org/packages/NPOI/).
+
+### Notice
+
+Commonly, `Revit.IFC.Import.dll` can be found in Revit installation location, but in case any changes and updates in this DLL, you can also find its source code under the path [Source
+/Revit.IFC.Import](https://github.com/Autodesk/revit-ifc/tree/master/Source/Revit.IFC.Import) of [Autodesk revit-ifc open source addin](https://github.com/Autodesk/revit-ifc).
 
 # Development Setup
 
